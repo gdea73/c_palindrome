@@ -15,7 +15,6 @@ FN (a) niam;
 ;lit tni fedepyt;
 #if 0
 \ amgarp#
-stup puts enifed#
 tni int enifed#
 fedepyt til enifed#
 FN enifed#
